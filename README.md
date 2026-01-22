@@ -91,11 +91,11 @@ This is a **two-semester project** (PRJ566 NCC):
 
 | Role | Name |
 |------|------|
-| Project Manager | Hansol Nam |
-| Front-End Developer | Yunjeong Choi |
-| Back-End Developer | Hsiao-Kang Chang |
-| UI/UX Designer | Shu-Ting Hsu |
-| Database & Documentation Lead | Rendell Velasco |
+| Project Manager | Yunjeong Choi |
+| Front-End Developer | Shu-Ting Hsu |
+| Back-End Developer | Rendell Velasco |
+| UI/UX Designer | Hsiao-Kang Chang |
+| Database & Documentation Lead | Hansol Nam |
 
 
 ## 🚀 Getting Started
